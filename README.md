@@ -1,19 +1,29 @@
-Hey everyone,
+---
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-I’m thrilled to share that I’ve decided to dive into the Web3 space! At 19 years old, with 3 years of front-end development experience under my belt, I’m ready to take on this exciting new challenge.
+# Welcome
 
-My journey in tech started with a passion for creating beautiful and functional web interfaces. Over the past few years, I’ve honed my skills in HTML, CSS, and JavaScript, 
+Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-building everything from simple websites to complex web applications. But now, I’m eager to explore the decentralized world of Web3, where the possibilities are endless.
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-Web3 represents the future of the internet, where decentralization, blockchain technology, and smart contracts are transforming how we interact online. 
+### Jump right in
 
-It’s a space filled with innovation, and I’m excited to be a part of it. I believe that my background in front-end development will be a strong foundation as I learn and grow in this new field.
-
-To anyone considering a similar path, I encourage you to take the leap. Embrace the unknown, stay curious, and never stop learning.
-
-The journey may be challenging, but the rewards are worth it. Together, we can shape the future of the internet.
-
-Here’s to new beginnings and endless possibilities!
-
-let's BUILD 🚀 2025
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
